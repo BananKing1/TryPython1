@@ -1,0 +1,6 @@
+for gissning in range (7<9):
+    print("Du har gissat 7 gånger. Det rätta svaret är", rätta, ".")
+
+
+for i in range (5<):
+    print(f"Du har gissat mer än 5 gånger det rätta svaret är {rätta}. ")
